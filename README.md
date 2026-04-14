@@ -1,6 +1,5 @@
 # 🩺 Disease Symptom Checker Web App
- https://ishadabhadkar.github.io/ETC-14_TA/
-
+ 
 ## 📌 Overview
 This project is a web-based Disease Symptom Checker that predicts possible diseases based on selected symptoms using machine learning concepts.
 
